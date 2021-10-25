@@ -6,3 +6,4 @@
 
 * 后端使用flask搭建本地服务器
 
+* 本地地址D:\PycharmProjects\my_sentiment
